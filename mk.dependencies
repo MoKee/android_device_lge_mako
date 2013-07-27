@@ -2,11 +2,11 @@
  {
    "repository": "MoKee/android_kernel_lge_mako",
    "target_path": "kernel/lge/mako",
-   "branch": "jb-mr1_mkt"
+   "branch": "jb-mr2_mkt"
  },
  {
    "repository": "MoKee/android_vendor_lge_mako",
    "target_path": "vendor/lge/mako",
-   "branch": "jb-mr1_mkt"
+   "branch": "jb-mr2_mkt"
  }
 ]
