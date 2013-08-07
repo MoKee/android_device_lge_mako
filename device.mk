@@ -32,8 +32,8 @@ PRODUCT_PACKAGES := \
 	lights.mako
 
 PRODUCT_PACKAGES += \
-    charger_res_images \
-    charger
+        charger_res_images \
+        charger
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
@@ -105,10 +105,10 @@ PRODUCT_COPY_FILES += \
 
 # NFC packages
 PRODUCT_PACKAGES += \
-    nfc_nci.mako \
-    NfcNci \
-    Tag \
-    com.android.nfc_extras
+        nfc_nci.mako \
+        NfcNci \
+        Tag \
+        com.android.nfc_extras
 
 # NFCEE access control
 ifeq ($(TARGET_BUILD_VARIANT),user)
