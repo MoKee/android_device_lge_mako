@@ -148,6 +148,8 @@ BOARD_SEPOLICY_UNION += \
 	ueventd.te \
 	wpa_supplicant.te
 
+BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
+
 ifdef MK_RELEASE
 WITH_DEXPREOPT := true
 endif
