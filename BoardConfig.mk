@@ -159,4 +159,3 @@ USE_DEVICE_SPECIFIC_CAMERA := true
 BOARD_HAS_NO_SELECT_BUTTON := true
 
 BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
-
