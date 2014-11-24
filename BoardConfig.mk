@@ -165,4 +165,4 @@ MALLOC_IMPL := dlmalloc
 
 BOARD_HAS_NO_SELECT_BUTTON := true
 
-BOARD_HARDWARE_CLASS := device/lge/mako/cmhw/
+BOARD_HARDWARE_CLASS := device/lge/mako/mkhw/
