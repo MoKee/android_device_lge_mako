@@ -83,7 +83,7 @@ ifeq ($(HOST_OS),linux)
     endif
   endif
 endif
-WITH_DEXPREOPT_BOOT_IMG_ONLY ?= true
+# WITH_DEXPREOPT_BOOT_IMG_ONLY ?= true
 
 TARGET_RECOVERY_FSTAB = device/lge/mako/fstab.mako
 RECOVERY_FSTAB_VERSION = 2
