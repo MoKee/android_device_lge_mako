@@ -4,8 +4,8 @@
    "target_path": "vendor/lge/mako"
  },
  {
-   "repository": "android_kernel_google_msm",
-   "target_path": "kernel/google/msm"
+   "repository": "android_kernel_lge_mako",
+   "target_path": "kernel/lge/mako"
  },
  {
    "repository": "android_external_stlport",
