@@ -122,6 +122,18 @@ HAVE_ADRENO_SOURCE:= false
 # Enable Minikin text layout engine (will be the default soon)
 USE_MINIKIN := true
 
+#TWRP
+TW_THEME := portrait_hdpi
+RECOVERY_VARIANT := twrp
+TW_USE_TOOLBOX := true
+TW_EXTRA_LANGUAGES := true
+TW_DEFAULT_LANGUAGE := zh_CN
+BOARD_HAS_NO_REAL_SDCARD := true
+RECOVERY_SDCARD_ON_DATA := true
+TW_NO_USB_STORAGE := false
+RECOVERY_GRAPHICS_USE_LINELENGTH := true
+TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
+
 # Include an expanded selection of fonts
 EXTENDED_FONT_FOOTPRINT := true
 
