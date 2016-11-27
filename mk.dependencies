@@ -1,6 +1,10 @@
 [
  {
-   "repository": "lge-kernel-mako",
+   "repository": "android_vendor_lge_mako",
+   "target_path": "vendor/lge/mako"
+ },
+ {
+   "repository": "android_kernel_lge_mako",
    "target_path": "kernel/lge/mako"
  },
  {
