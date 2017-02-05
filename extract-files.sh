@@ -52,6 +52,6 @@ fi
 # Initialize the helper for device
 setup_vendor "$DEVICE" "$VENDOR" "$MK_ROOT"
 
-extract "$MY_DIR"/proprietary-files.txt "$SRC"
+extract "$MY_DIR"/proprietary-blobs.txt "$SRC"
 
 "$MY_DIR"/setup-makefiles.sh
