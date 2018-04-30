@@ -15,13 +15,13 @@
  * limitations under the License.
  */
 
-package org.lineageos.hardware;
+package org.mokee.hardware;
 
 import android.os.Handler;
 import android.os.Message;
 import android.text.TextUtils;
 
-import org.lineageos.internal.util.FileUtils;
+import org.mokee.internal.util.FileUtils;
 
 import java.io.File;
 
